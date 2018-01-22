@@ -1,0 +1,6 @@
+Games played: 2.0
+Wins: 1
+Losses: 1
+Games played: 2.0
+Total earnings: 22.0
+Average earnings: 11.0
